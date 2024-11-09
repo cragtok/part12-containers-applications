@@ -1,0 +1,12 @@
+Script started on 2024-11-09 15:33:29+06:00 [TERM="tmux-256color" TTY="/dev/pts/9" COLUMNS="209" LINES="49"]
+[?2004h[38;5;180m[[38;5;180mlidfun[38;5;223m@[38;5;137mdevbox [38;5;223m~/Documents/Projects/full_stack_open_containers/part12-containers-applications[38;5;180m][38;5;215m$[m [7mdocker run -it ubuntu bash[27m
+M[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdocker run -it ubuntu bash
+[KM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;root@0474b7d70ae2: /root@0474b7d70ae2:/# mkdir /etc/    ur sr/src/app
+[?2004l[?2004h]0;root@0474b7d70ae2: /root@0474b7d70ae2:/# touch /usr/src/appind   /n indedx  x.js
+[?2004l[?2004h]0;root@0474b7d70ae2: /root@0474b7d70ae2:/# [Kexit
+[?2004lexit
+[?2004h[38;5;180m[[38;5;180mlidfun[38;5;223m@[38;5;137mdevbox [38;5;223m~/Documents/Projects/full_stack_open_containers/part12-containers-applications[38;5;180m][38;5;215m$[m exit
+[?2004lexit
+
+Script done on 2024-11-09 15:34:24+06:00 [COMMAND_EXIT_CODE="0"]
