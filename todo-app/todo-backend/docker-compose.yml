@@ -1,0 +1,7 @@
+services:
+  app:
+    container_name: todo-backend
+    image: todo-backend
+    build: .
+    ports:
+      - 3000:3000
