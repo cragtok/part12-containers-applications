@@ -4,10 +4,8 @@ WORKDIR /usr/src/app
 
 COPY --chown=node:node . .
 
-RUN npm ci --omit=dev
-
-ENV PORT=3000
+RUN npm ci
 
 USER node
 
-CMD npm start
+CMD npm run dev
